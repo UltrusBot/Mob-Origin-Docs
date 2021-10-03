@@ -1,0 +1,11 @@
+# Power Types
+UPL, Mob Origins, and Fantasy origins add quite a few different powertypes.
+
+
+## Mob Origins
+* [Totem Chance](power_types/totem_chance.md)
+* [Spiked](power_types/spiked.md)
+* [Riptide Override](power_types/riptide_override.md)
+* [Remove Mob Hostility](power_types/remove_mob_hostility.md)
+* [Action on Entity Tame](power_types/action_on_entity_tame.md)
+* [Action on Breed Animal](power_types/action_on_breed_animal.md)

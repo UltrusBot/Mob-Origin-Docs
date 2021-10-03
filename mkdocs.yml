@@ -1,0 +1,18 @@
+site_name: UPL Documentation
+nav:
+  - Home: index.md
+  - Types:
+      - Power Types: power_types.md
+  - Conditions:
+      - Entity Conditions: entity_conditions.md
+  - Actions:
+      - Entity Actions: entity_actions.md
+  - Miscellaneous:
+      - Origins: misc/origins.md
+      - Powers: misc/powers.md
+      - Resource Bars: misc/resource_bars.md
+      - Entities: misc/entities.md
+      - Enchantments: misc/enchantments.md
+      - Status Effects: misc/status_effects.md
+theme: readthedocs
+separator: '_'

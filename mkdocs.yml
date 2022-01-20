@@ -16,6 +16,8 @@ nav:
       - Status Effects: misc/status_effects.md
 theme:
   name: material
+  features:
+    - content.code.annotate 
   palette:
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate

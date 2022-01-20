@@ -15,17 +15,19 @@ nav:
       - Enchantments: misc/enchantments.md
       - Status Effects: misc/status_effects.md
 theme:
-  name: material
-  theme:
-  palette: 
-    primary: teal
-    accent: orange
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-    - scheme: slate 
+  palette:
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    primary: teal
+    accent: orange
+
+
 separator: '_'

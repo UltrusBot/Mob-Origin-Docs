@@ -16,4 +16,16 @@ nav:
       - Status Effects: misc/status_effects.md
 theme:
   name: material
+  theme:
+  palette: 
+    primary: teal
+    accent: orange
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 separator: '_'

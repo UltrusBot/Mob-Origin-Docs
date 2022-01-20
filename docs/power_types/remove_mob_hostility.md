@@ -9,6 +9,7 @@ This power allows you to remove the hostility of certain mobs. It's limited to c
 Field | Type | Default | Description
 ------|------|---------|-------------
 entity_condition | [Entity Condition](https://origins.readthedocs.io/en/latest/types/entity_condition_types/) | *Optional* | This is a condition for the entity you wish to make neutral.
+
 ### Example
 
 ```json

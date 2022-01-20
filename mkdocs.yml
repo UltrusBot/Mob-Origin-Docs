@@ -14,5 +14,6 @@ nav:
       - Entities: misc/entities.md
       - Enchantments: misc/enchantments.md
       - Status Effects: misc/status_effects.md
-theme: readthedocs
+theme:
+  name: material
 separator: '_'

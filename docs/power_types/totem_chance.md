@@ -10,7 +10,7 @@ Lets you modify the chance of a totem breaking.
 
 Field | Type | Default | Description
 ------|------|---------|-------------
-`chance` | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | `0.1` | This is the chance that the totem breaks.
+chance | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | `0.1` | This is the chance that the totem breaks.
 
 
 ### Example

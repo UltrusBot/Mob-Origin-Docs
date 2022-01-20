@@ -1,4 +1,4 @@
-# Totem Chance
+# Riptide Override
 
 [Power Type](../power_types.md)
 

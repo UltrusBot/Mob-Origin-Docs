@@ -27,7 +27,7 @@ bientity_condition | [Bi-entity Condition Type](https://origins.readthedocs.io/e
     "type": "origins:target_action",
     "action": {
       "type": "origins:explode",
-      "power": 15,
+      "power": 15
     }
   }
 }

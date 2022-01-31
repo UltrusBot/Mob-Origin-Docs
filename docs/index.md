@@ -1,4 +1,4 @@
-# Welcome to the UPL (Ultra Power Library) Documentation
+# Welcome to the UPL (Ultrus Power Library) Documentation
 This documentation contains information about UPL, Mob Origins, and Fantasy Origins (Unreleased at the time of writing this)
 
 This page will contain general information about my origin addons.

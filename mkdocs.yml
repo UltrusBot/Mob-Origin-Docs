@@ -39,8 +39,8 @@ extra:
       link: https://discord.gg/FWEfASDYud
     - icon: fontawesome/brands/github
       link: https://github.com/UltrusBot/
-    version:
-      provider: mike
+  version:
+    provider: mike
 
 markdown_extensions:
   - pymdownx.highlight:

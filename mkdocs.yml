@@ -1,4 +1,5 @@
 site_name: UPL Documentation
+site_url: https://upl.readthedocs.io
 nav:
   - Home: index.md
   - Types:

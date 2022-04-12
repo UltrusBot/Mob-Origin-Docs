@@ -7,7 +7,9 @@ This power allows you to change the conditions necessary to use riptide on a tri
 The original conditions will still work (Water & Rain).
 ### Fields
 
-*None.*
+Field | Type | Default | Description
+------|------|---------|-------------
+damage | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | 1 | The damage applied to the trident after using the power riptide.
 
 ### Example
 
@@ -18,6 +20,7 @@ The original conditions will still work (Water & Rain).
       "type":"origins:submerged_in",
       "fluid":"minecraft:lava"
    }
+   
 }
 ```
 This example will allow you to use tridents while in lava.

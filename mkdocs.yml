@@ -16,6 +16,7 @@ nav:
       - Status Effects: misc/status_effects.md
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.code.annotate 
   palette:

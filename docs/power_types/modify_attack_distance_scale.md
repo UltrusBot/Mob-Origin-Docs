@@ -1,5 +1,5 @@
 # Modify Attack Distance Scale
-!!! info "Version Added: 2.0.0
+!!! tip "Version Added: 2.0.0"
 
     This was added in Mob Origins 2.0.0, so it won't work in older versions.
 [Power Type](../power_types.md)

@@ -1,6 +1,7 @@
 # Modify Attack Distance Scale
-!!! info "Added in Mob Origins 2.0.0"
+!!! info "Version Added: 2.0.0
 
+    This was added in Mob Origins 2.0.0, so it won't work in older versions.
 [Power Type](../power_types.md)
 
 This power type allows changing the attack distance scale factor that influences the distance certain will see you.

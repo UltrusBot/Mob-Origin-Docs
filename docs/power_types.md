@@ -10,3 +10,4 @@ UPL, Mob Origins, and Fantasy origins add quite a few different powertypes.
 * [Action on Entity Tame](power_types/action_on_entity_tame.md)
 * [Action on Breed Animal](power_types/action_on_breed_animal.md)
 * [Modify Attack Distance Scale](power_types/modify_attack_distance_scale.md)
+* [Illuminate](power_types/illuminate.md)

@@ -1,11 +1,12 @@
 # Dyeable Model Color 
-!!! tip "Version Added: 2.0.0"
 
-    This was added in Mob Origins 2.0.0, so it won't work in older versions.
 [Power Type](../power_types.md)
 
 This power type acts similarly to the origins [Model Color Power](https://origins.readthedocs.io/en/latest/types/power_types/model_color/), but with the additional feature of being able to dynamically change the color through the [Consume Dye Color](../actions/entity/consume_dye_color.md) entity action.
 
+!!! tip "Version Added: 2.0.0"
+
+    
 ### Fields
 
 

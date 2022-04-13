@@ -1,10 +1,12 @@
 # Dyeable Model Color 
-!!! tip "Version Added: 2.0.0"
 
-    This was added in Mob Origins 2.0.0, so it won't work in older versions.
 [Entity Action](../../entity_actions.md)
 
 This action consumes the currently held dye item, and blends the color of the [Dyeable Model Color Powers](../../power_types/dyeable_model_color.md) with the dye color.
+
+!!! tip "Version Added: 2.0.0"
+
+    
 ### Fields
 *None*
 

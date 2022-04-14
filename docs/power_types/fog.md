@@ -34,4 +34,4 @@ end | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/intege
 ```
 This makes it so the player has a thick white fog, which can be disabled by sneaking.
 This looks like: 
-![Fog Image](images/fog.png)
+![Fog Image](../images/fog.png)

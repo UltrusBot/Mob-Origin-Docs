@@ -1,11 +1,11 @@
 # Illuminate 
-!!! tip "Version Added: 2.0.0"
-
-    This was added in Mob Origins 2.0.0, so it won't work in older versions.
 [Power Type](../power_types.md)
 
 This power type allows you to make the entity with the power glow similarly to the glow squid.
 
+!!! tip "Version Added: 2.0.0"
+
+    
 ### Fields
 
 Field | Type | Default | Description

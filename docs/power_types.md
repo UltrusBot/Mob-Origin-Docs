@@ -12,3 +12,7 @@ UPL, Mob Origins, and Fantasy origins add quite a few different powertypes.
 * [Modify Attack Distance Scale](power_types/modify_attack_distance_scale.md)
 * [Illuminate](power_types/illuminate.md)
 * [Dyeable Model Color](power_types/dyeable_model_color.md)
+* [Walk on Powdered Snow](power_types/walk_on_powder_snow.md)
+* [Mimic Enchant](power_types/mimic_enchant.md)
+* [Fog](power_types/fog.md)
+* [Health Boss Bar](power_types/health_boss_bar.md)

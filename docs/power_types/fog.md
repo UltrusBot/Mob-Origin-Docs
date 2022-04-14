@@ -16,6 +16,7 @@ green | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float)
 blue | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float) | `1.0` | Default blue value for color, Range of: [0.0 - 1.0].
 start | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | `-5` | This is the start distance for the fog.
 end | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | `30` | This is the end distance for the fog.
+
 ### Example
 
 ```json

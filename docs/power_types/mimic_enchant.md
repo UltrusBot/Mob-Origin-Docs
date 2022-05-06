@@ -20,6 +20,7 @@ TODO
 This will also change the result of the `apoli:enchantment` entity condition.
 
 This doesn't work on all enchantments due to limitations in minecraft. These are the ones that do work:
+
  - All Protection Enchantments
 
  - Sweeping Edge
@@ -45,5 +46,5 @@ This doesn't work on all enchantments due to limitations in minecraft. These are
  - Power
 
  - Punch
- 
+
  - Flame

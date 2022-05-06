@@ -16,3 +16,4 @@ UPL, Mob Origins, and Fantasy origins add quite a few different powertypes.
 * [Mimic Enchant](power_types/mimic_enchant.md)
 * [Fog](power_types/fog.md)
 * [Health Boss Bar](power_types/health_boss_bar.md)
+* [Custom Sleep Block](power_types/custom_sleep_block.md)

@@ -1,5 +1,5 @@
-site_name: UPL Documentation
-site_url: https://upl.readthedocs.io
+site_name: Mob Origins Docs
+site_url: https://moborigins.ultrusmods.me
 nav:
   - Home: index.md
   - Power Types: power_types.md

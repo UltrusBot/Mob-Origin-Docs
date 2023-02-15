@@ -1,30 +1,24 @@
-# Dyeable Model Color 
+# Dyeable Model Color
+Sets the color of a model, while allowing it to be dyed by the [Set Dyeable Model Color](https://moborigins.readthedocs.io/en/latest/actions/entity/set_dyeable_model_color) action, or the [Consume Dye](https://moborigins.readthedocs.io/en/latest/actions/entity/consume_dye_color/) action.
 
-[Power Type](../power_types.md)
 
-This power type acts similarly to the origins [Model Color Power](https://origins.readthedocs.io/en/latest/types/power_types/model_color/), but with the additional feature of being able to dynamically change the color through the [Consume Dye Color](../actions/entity/consume_dye_color.md) entity action.
-
-!!! tip "Version Added: 2.0.0"
-
-    
 ### Fields
+Field | Type | Default | Description
+------|------|---------|-------------
+red | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | *1.0* | The red component of the color.
+green | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | *1.0* | The green component of the color.
+blue | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | *1.0* | The blue component of the color.
+alpha | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float/) | *1.0* | The alpha component of the color.
 
-
-Field  | Type | Default | Description
--------|------|---------|-------------
-red | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float) | `1.0` | Default red value for color, Range of: [0.0 - 1.0].
-green | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float) | `1.0` | Default green value for color, Range of: [0.0 - 1.0].
-blue | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float) | `1.0` | Default blue value for color, Range of: [0.0 - 1.0].
-alpha | [Float](https://origins.readthedocs.io/en/latest/types/data_types/float) | `1.0` | Alpha value for color, Range of: [0.0 - 1.0]
 
 ### Example
-
 ```json
 {
     "type": "moborigins:dyeable_model_color",
-    "red": 1.0,
-    "green": 0.5,
-    "blue": 0,
+    "red": 0.0,
+    "green": 0.0,
+    "blue": 1.0,
+    "alpha": 0.9
 }
 ```
-This power makes you orange.
+Sets the color of a model to blue, and slightly translucent.

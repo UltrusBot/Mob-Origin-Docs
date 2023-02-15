@@ -1,17 +1,14 @@
 # Remove Mob Hostility
-
-[Power Type](../power_types.md)
-
 This power allows you to remove the hostility of certain mobs. It's limited to certain mobs which have the TargetGoal goal type. This means entities with brains (Piglins, Hoglins, and Villagers) won't be affected by this power.
 
-### Fields
 
+### Fields
 Field | Type | Default | Description
 ------|------|---------|-------------
-entity_condition | [Entity Condition](https://origins.readthedocs.io/en/latest/types/entity_condition_types/) | *Optional* | This is a condition for the entity you wish to make neutral.
+entity_condition | [entity_condition](https://origins.readthedocs.io/en/latest/types/entity_condition_types/) |   | The condition that the mob must meet to be affected by this power.
+
 
 ### Example
-
 ```json
 {
     "type": "moborigins:remove_mob_hostility",
@@ -21,4 +18,4 @@ entity_condition | [Entity Condition](https://origins.readthedocs.io/en/latest/t
     }
 }
 ```
-This power will make it so creatures in the undead entity group are neutral towards you.
+Removes the hostility of undead mobs towards the player.

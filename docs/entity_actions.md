@@ -1,8 +1,11 @@
 # Entity Actions
-UPL, Mob Origins, and Fantasy origins add quite a few different entity actions.
-
-
-## Mob Origins
-* [Consume Dye](actions/entity/consume_dye_color.md)
-
-
+- [Consume Dye](actions/entity/consume_dye.md)
+- [Damage Equipment](actions/entity/damage_equipment.md)
+- [Jump](actions/entity/jump.md)
+- [Resource Math](actions/entity/resource_math.md)
+- [Set Dyeable Model Color](actions/entity/set_dyeable_model_color.md)
+- [Set Freeze Ticks](actions/entity/set_freeze_ticks.md)
+- [Set Item Cooldown](actions/entity/set_item_cooldown.md)
+- [Show Floating Item](actions/entity/show_floating_item.md)
+- [Summon Fangs](actions/entity/summon_fangs.md)
+- [Summon Slime](actions/entity/summon_slime.md)

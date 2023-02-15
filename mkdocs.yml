@@ -3,18 +3,18 @@ site_url: https://moborigins.ultrusmods.me
 nav:
   - Home: index.md
   - Power Types: power_types.md
-  - Data Types: data_types.md
   - Conditions:
       - Entity Conditions: entity_conditions.md
+      - Block Conditions: block_conditions.md
+      - Item Conditions: item_conditions.md
   - Actions:
       - Entity Actions: entity_actions.md
+      - Block Actions: block_actions.md
+      - Bi-entity Actions: bi_entity_actions.md
+      - Damage Conditions: damage_conditions.md
   - Miscellaneous:
       - Origins: misc/origins.md
       - Powers: misc/powers.md
-      - Resource Bars: misc/resource_bars.md
-      - Entities: misc/entities.md
-      - Enchantments: misc/enchantments.md
-      - Status Effects: misc/status_effects.md
 theme:
   name: material
   custom_dir: overrides

@@ -1,9 +1,6 @@
 # Entity Conditions
-UPL, Mob Origins, and Fantasy origins add quite a few different entity conditions.
-
-
-## Mob Origins
-
-* [Is Full Moon](entity_conditions/is_full_moon.md)
-* [Time Since Rest](entity_conditions/time_since_rest.md)
-* [Nearby Entities](entity_conditions/nearby_entities.md)
+- [Has Item Cooldown](conditions/entity/has_item_cooldown.md)
+- [In Raid Area](conditions/entity/in_raid_area.md)
+- [Is Full Moon](conditions/entity/is_full_moon.md)
+- [Nearby Entities](conditions/entity/nearby_entities.md)
+- [Time Since Rest](conditions/entity/time_since_rest.md)

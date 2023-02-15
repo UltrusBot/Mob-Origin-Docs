@@ -1,26 +1,22 @@
 # Riptide Override
+Allows using the riptide enchantment without having the enchantment, with a configurable durability cost.
 
-[Power Type](../power_types.md)
 
-This power allows you to change the conditions necessary to use riptide on a trident. 
-
-The original conditions will still work (Water & Rain).
 ### Fields
-
 Field | Type | Default | Description
 ------|------|---------|-------------
-damage | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | 1 | The damage applied to the trident after using the power riptide.
+trident_damage | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | *optional* | The amount of durability to take from the trident when using the riptide enchantment.
+
 
 ### Example
-
 ```json
 {
-   "type":"moborigins:riptide_override",
-   "condition":{
-      "type":"origins:submerged_in",
-      "fluid":"minecraft:lava"
-   }
-   
+  "type": "moborigins:riptide_override",
+  "trident_damage": 10,
+  "condition": {
+    "type": "origins:daytime",
+    "inverted": true
+  }
 }
 ```
-This example will allow you to use tridents while in lava.
+This allows using the riptide enchantment without having the enchantment, only during the night, at the cost of 10 durability.

@@ -1,19 +1,14 @@
-# Custom Sleep Block 
-[Power Type](../power_types.md)
+# Custom Sleep Block
+This power type allows you to sleep on blocks other than beds.
 
-This power type allows you to make it so the player can sleep at blocks other than a bed. 
 
-!!! tip "Version Added: 2.0.0"
-
-    
 ### Fields
-
 Field | Type | Default | Description
 ------|------|---------|-------------
-block_condition | [Block Condition](https://origins.readthedocs.io/en/latest/types/block_condition_types/) |  | The condition checked against for the custom sleep block.
+block_condition | [Block Condition Type](https://origins.readthedocs.io/en/latest/types/block_condition_types/) | *optional* | This determines what type of block you can sleep on, if null, any block will work.
+
 
 ### Example
-
 ```json
 {
   "type": "moborigins:custom_sleep_block",
@@ -23,4 +18,4 @@ block_condition | [Block Condition](https://origins.readthedocs.io/en/latest/typ
   }
 }
 ```
-This power allows you to sleep on logs.
+This power will make it so that you can sleep on any log block.

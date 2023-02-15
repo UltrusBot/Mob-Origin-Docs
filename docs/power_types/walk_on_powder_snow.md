@@ -1,21 +1,12 @@
 # Walk on Powder Snow
+This power type allows you to walk on powder snow.
 
-[Power Type](../power_types.md)
 
-This power allows you to walk on powdered snow.
-
-!!! tip "Version Added: 2.0.0"
-
-    
-### Fields
-
-*None*
 
 ### Example
-
 ```json
 {
     "type": "moborigins:walk_on_powder_snow"
 }
 ```
-This allows you to walk on powdered snow.
+This lets you walk on powder snow.

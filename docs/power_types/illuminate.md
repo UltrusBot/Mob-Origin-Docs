@@ -1,19 +1,14 @@
-# Illuminate 
-[Power Type](../power_types.md)
+# Illuminate
+This power type allows you to make a mob emit light like a glow squid.
 
-This power type allows you to make the entity with the power glow similarly to the glow squid.
 
-!!! tip "Version Added: 2.0.0"
-
-    
 ### Fields
-
 Field | Type | Default | Description
 ------|------|---------|-------------
-light | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | `15` | This is the light level. It is clamped to the [0-15] range
+light | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) | *15* | The light level the mob will emit.
+
 
 ### Example
-
 ```json
 {
     "type": "moborigins:illuminate",

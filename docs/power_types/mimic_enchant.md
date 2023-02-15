@@ -1,23 +1,31 @@
-# Mimic Enchant (Unfinished)
+# Mimic Enchant
+Mimics an enchantment on the entity, acting as if the entity had the enchantment, while not actually having it.
 
-[Power Type](../power_types.md)
 
-This power allows you to fake having an enchant, without actually having it yourself.
-
-!!! tip "Version Added: 2.0.0"
-
-    
 ### Fields
+Field | Type | Default | Description
+------|------|---------|-------------
+enchantment | [Enchantment](https://origins.readthedocs.io/en/latest/types/data_types/enchantment/) |   | The enchantment to mimic.
+level | [Integer](https://origins.readthedocs.io/en/latest/types/data_types/integer/) |   | The level of the enchantment to mimic.
 
-TODO
 
 ### Example
+```json
+{
+  "type": "moborigins:mimic_enchant",
+  "enchantment": "minecraft:frost_walker",
+  "level": 3
+}
+```
+Mimics the Frost Walker enchantment on the entity.
 
-TODO
+ ### Extra Info
 
-### Extra Info
 
-This will also change the result of the `apoli:enchantment` entity condition.
+
+This will also change the result of the `origins:enchantment` entity condition.
+
+
 
 This doesn't work on all enchantments due to limitations in minecraft. These are the ones that do work:
 

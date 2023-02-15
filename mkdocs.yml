@@ -33,8 +33,7 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   features:
-    - content.code.annotate
-    - navigation.tabs
+    - content.code.annotate 
   palette:
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate

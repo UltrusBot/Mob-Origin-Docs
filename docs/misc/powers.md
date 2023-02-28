@@ -10,7 +10,6 @@
 | Queen Bee | `moborigins:queen_bee` | When you collect honey, the bees won't try to attack you. |
 | Careful Gatherer | `moborigins:careful_gatherer` | Sweet Berry Bushes don't hurt you at all. |
 | Pillager Aligned | `moborigins:pillager_aligned` | Villagers don't like you, and pillagers like you! |
-| *hidden* | `moborigins:slime_slide` | *No description available* |
 | Water Combatant | `moborigins:water_combatant` | You deal more damage while in water. |
 | *hidden* | `moborigins:powerful_wolf` | *No description available* |
 | *hidden* | `moborigins:water_vision` | *No description available* |

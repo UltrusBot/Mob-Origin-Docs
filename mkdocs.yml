@@ -69,4 +69,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+plugins:
+  - social
+
 separator: '_'
